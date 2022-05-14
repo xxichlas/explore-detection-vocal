@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vocal</folder>
+	<filename>I.6b0cb823-d331-11ec-9d05-d72bf436dde1.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\vocal\I.6b0cb823-d331-11ec-9d05-d72bf436dde1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>94</ymin>
+			<xmax>379</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>
